@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for simple-web-app-using-fly-naz on 2024-04-22T16:08:16+01:00
+# fly.toml app configuration file generated for simple-web-app-using-fly-naz-bold-smoke-3805 on 2024-04-22T16:12:50+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'simple-web-app-using-fly-naz'
+app = 'simple-web-app-using-fly-naz-bold-smoke-3805'
 primary_region = 'lhr'
 
 [build]
